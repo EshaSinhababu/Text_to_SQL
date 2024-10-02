@@ -1,0 +1,3 @@
+stramlit
+google-generativeai
+python-dotenv
